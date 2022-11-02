@@ -5,7 +5,7 @@ public boolean firstLast6(int[] nums) {
         return false;
 }
 
-public boolean is6InLastOrFist(int[] nums){
+private boolean is6InLastOrFist(int[] nums){
         int firstValue = nums[0];
         int lastValue = nums[nums.length-1];
         return firstValue == 6 || lastValue == 6;
