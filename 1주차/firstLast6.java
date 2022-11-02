@@ -1,3 +1,4 @@
+// OOP Style Code
 public boolean firstLast6(int[] nums) {
         if(is6InLastOrFist(nums)){
             return true;
