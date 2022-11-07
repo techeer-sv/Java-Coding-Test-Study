@@ -14,3 +14,8 @@
 1. [Coding bat] Array-1 [firstLast6](https://codingbat.com/prob/p185685)
 2. [Coding bat] Array-1 [commonEnd](https://codingbat.com/prob/p191991)
 3. [Coding bat] Array-1 [reverse3](https://codingbat.com/prob/p112409)
+
+### 2주차
+1. [Coding bat] Array-3 [maxSpan](https://codingbat.com/prob/p189576)
+2. [Coding bat] Array-3 [canBalance](https://codingbat.com/prob/p158767)
+3. [Coding bat] Array-3 [seriesUp](https://codingbat.com/prob/p104090)
