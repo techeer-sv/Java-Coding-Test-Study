@@ -19,3 +19,8 @@
 1. [Coding bat] Array-3 [maxSpan](https://codingbat.com/prob/p189576)
 2. [Coding bat] Array-3 [canBalance](https://codingbat.com/prob/p158767)
 3. [Coding bat] Array-3 [seriesUp](https://codingbat.com/prob/p104090)
+
+### 3주차
+1. [BAEKJOON] DFS, BFS [DFS와 BFS](https://www.acmicpc.net/problem/1260)
+2. [BAEKJOON] 정렬 [수리공 항승](https://www.acmicpc.net/problem/1449)
+3. [BAEKJOON] 이진탐색 [수 찾기](https://www.acmicpc.net/problem/1920)
