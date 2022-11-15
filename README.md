@@ -24,3 +24,29 @@
 1. [BAEKJOON] DFS, BFS [DFS와 BFS](https://www.acmicpc.net/problem/1260)
 2. [BAEKJOON] 정렬 [수리공 항승](https://www.acmicpc.net/problem/1449)
 3. [BAEKJOON] 이진탐색 [수 찾기](https://www.acmicpc.net/problem/1920)
+
+## :pencil2: 문제풀이 참여 현황
+매주 할당 된 문제풀이에 대해..
+<br><br>
+다 풀었으면 : :heavy_check_mark:
+덜 풀었으면 : :small_red_triangle:
+안 풀었으면 : :x:
+
+| --- | Wooseok | Youngjin | Hyunwoo | Zyoon | Yulim |
+| --- | --- | --- | --- | --- | --- |
+| 1주차 | :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:| :x:|
+| 2주차 |:x:| :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:|
+| 3주차 ||||||
+| 4주차 ||||||
+| 5주차 ||||||
+
+## :speech_balloon: 미팅 참여 현황
+:x: / :o:
+
+| --- | Wooseok | Youngjin | Hyunwoo | Zyoon | Yulim |
+| --- | --- | --- | --- | --- | --- |
+| 1주차 |:o:|:o:|:o:|:o:|:o:|
+| 2주차 |:o:|:o:|:o:|:o:|:o:|
+| 3주차 ||||||
+| 4주차 ||||||
+| 5주차 ||||||
