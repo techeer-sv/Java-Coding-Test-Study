@@ -25,6 +25,11 @@
 2. [BAEKJOON] 정렬 [수리공 항승](https://www.acmicpc.net/problem/1449)
 3. [BAEKJOON] 이진탐색 [수 찾기](https://www.acmicpc.net/problem/1920)
 
+### 4주차
+1. [BAEKJOON][동전] https://www.acmicpc.net/problem/11047
+2. [BAEKJOON][ATM] https://www.acmicpc.net/problem/11399
+3. [BAEKJOON][잃어버린 괄호] https://www.acmicpc.net/problem/1541
+
 ## :pencil2: 문제풀이 참여 현황
 매주 할당 된 문제풀이에 대해..
 <br><br>
@@ -36,7 +41,7 @@
 | --- | --- | --- | --- | --- | --- |
 | 1주차 | :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:| :x:|
 | 2주차 |:x:| :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:|
-| 3주차 ||||||
+| 3주차 |||:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 4주차 ||||||
 | 5주차 ||||||
 
@@ -47,6 +52,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 1주차 |:o:|:o:|:o:|:o:|:o:|
 | 2주차 |:o:|:o:|:o:|:o:|:o:|
-| 3주차 ||||||
+| 3주차 |:x:|:x:|:o:|:o:|:o:|
 | 4주차 ||||||
 | 5주차 ||||||
