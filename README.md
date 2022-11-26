@@ -41,7 +41,7 @@
 | --- | --- | --- | --- | --- | --- |
 | 1주차 | :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:| :x:|
 | 2주차 |:x:| :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:|
-| 3주차 |||:heavy_check_mark:|:heavy_check_mark:|:x:|
+| 3주차 ||:small_red_triangle:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 4주차 ||||||
 | 5주차 ||||||
 
