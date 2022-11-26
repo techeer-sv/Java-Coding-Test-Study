@@ -42,7 +42,7 @@
 | 1주차 | :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:| :x:|
 | 2주차 |:x:| :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:|
 | 3주차 |:x:|:small_red_triangle:|:heavy_check_mark:|:heavy_check_mark:|:x:|
-| 4주차 |:x:|:small_red_triangle:||:small_red_triangle:|:heavy_check_mark:|
+| 4주차 |:x:|:small_red_triangle:|:heavy_check_mark:|:small_red_triangle:|:heavy_check_mark:|
 | 5주차 ||||||
 
 ## :speech_balloon: 미팅 참여 현황
