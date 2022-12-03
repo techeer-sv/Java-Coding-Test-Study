@@ -45,7 +45,7 @@
 
 | --- | Wooseok | Youngjin | Hyunwoo | Zyoon | Yulim |
 | --- | --- | --- | --- | --- | --- |
-| 1주차 | :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:| :x:|
+| 1주차 | :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:|
 | 2주차 |:x:| :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:|
 | 3주차 |:x:|:small_red_triangle:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 4주차 |:x:|:small_red_triangle:|:heavy_check_mark:|:small_red_triangle:|:heavy_check_mark:|
