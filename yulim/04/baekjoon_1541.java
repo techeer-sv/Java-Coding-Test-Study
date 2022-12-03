@@ -9,17 +9,18 @@ public class Main {
 
 		String[] cal = br.readLine().split("-");
 		int res = 0;
-		for(int i=0;i<cal.length;i++) {
+		for (int i = 0; i < cal.length; i++) {
 			int sum = 0;
 			String[] cal2 = cal[i].split("\\+");
-			for(int j=0;j<cal2.length;j++) {
+			for (int j = 0; j < cal2.length; j++) {
 				sum += Integer.parseInt(cal2[j]);
 			}
-			if(i==0) {
+			if (i == 0) {
 				res += sum;
-			}else {
+			} else {
 				res -= sum;
 			}
 		}
 		System.out.println(res);
 	}
+}
