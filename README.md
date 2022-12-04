@@ -49,7 +49,10 @@
 | 2주차 |:x:| :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:|
 | 3주차 |:x:|:small_red_triangle:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 4주차 |:x:|:small_red_triangle:|:heavy_check_mark:|:small_red_triangle:|:heavy_check_mark:|
-| 5주차 ||||||
+| 5주차 |:x:|:small_red_triangle:|:heavy_check_mark:|:heavy_check_mark:|:small_red_triangle:|
+| 6주차 ||||||
+| 7주차 ||||||
+| 8주차 ||||||
 
 ## :speech_balloon: 미팅 참여 현황
 :x: / :o:
@@ -60,4 +63,7 @@
 | 2주차 |:o:|:o:|:o:|:o:|:o:|
 | 3주차 |:x:|:x:|:o:|:o:|:o:|
 | 4주차 |:x:|:o:|:o:|:o:|:o:|
-| 5주차 ||||||
+| 5주차 |:o:|:o:|:o:|:o:|:o:|
+| 6주차 ||||||
+| 7주차 ||||||
+| 8주차 ||||||
