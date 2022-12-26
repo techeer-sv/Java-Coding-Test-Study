@@ -39,6 +39,16 @@
 ### 6주차
 자유롭게 풀고 둘째마당 복습
 
+### 7주차
+1. [Programmers] [타켓 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)
+2. [Programmers] [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/42748)
+3. [Programmers] [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)
+4. [Programmers] [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)
+5. [Programmers] [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)
+
+4,5번은 하나 선택하여 풀기!
+
+
 ## :pencil2: 문제풀이 참여 현황
 매주 할당 된 문제풀이에 대해..
 <br><br>
@@ -50,9 +60,9 @@
 | --- | --- | --- | --- | --- | --- |
 | 1주차 | :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:|
 | 2주차 |:heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:|
-| 3주차 |:x:|:small_red_triangle:|:heavy_check_mark:|:heavy_check_mark:|:x:|
+| 3주차 |:small_red_triangle:|:small_red_triangle:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 4주차 |:x:|:small_red_triangle:|:heavy_check_mark:|:small_red_triangle:|:heavy_check_mark:|
-| 5주차 |:x:|:small_red_triangle:|:heavy_check_mark:|:heavy_check_mark:|:small_red_triangle:|
+| 5주차 |:small_red_triangle:|:small_red_triangle:|:heavy_check_mark:|:heavy_check_mark:|:small_red_triangle:|
 | 6주차 ||||||
 | 7주차 ||||||
 | 8주차 ||||||
@@ -68,5 +78,5 @@
 | 4주차 |:x:|:o:|:o:|:o:|:o:|
 | 5주차 |:o:|:o:|:o:|:o:|:o:|
 | 6주차 |:o:|:o:|:o:|:o:|:x:|
-| 7주차 ||||||
+| 7주차 |:o:|:o:|:o:|:o:|:x:|
 | 8주차 ||||||
