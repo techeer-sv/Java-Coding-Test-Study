@@ -63,7 +63,7 @@
 | 3주차 |:small_red_triangle:|:small_red_triangle:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 4주차 |:x:|:small_red_triangle:|:heavy_check_mark:|:small_red_triangle:|:heavy_check_mark:|
 | 5주차 |:small_red_triangle:|:small_red_triangle:|:heavy_check_mark:|:heavy_check_mark:|:small_red_triangle:|
-| 6주차 ||||||
+| 6주차 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 7주차 ||||||
 | 8주차 ||||||
 
