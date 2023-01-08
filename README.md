@@ -1,5 +1,6 @@
 # Java-Coding-Test-Study
 3기 자바 코딩 테스트 준비 스터디
+* 2월부터 제대로 시작하겠습니다
 
 
 ## Rule
