@@ -48,6 +48,11 @@
 
 4,5번은 하나 선택하여 풀기!
 
+### 8주차
+1. [Programmers] [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)
+2. [Programmers] [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)
+3. [Programmers] [단어 변화](https://school.programmers.co.kr/learn/courses/30/lessons/43163)
+
 
 ## :pencil2: 문제풀이 참여 현황
 매주 할당 된 문제풀이에 대해..
@@ -64,8 +69,10 @@
 | 4주차 |:x:|:small_red_triangle:|:heavy_check_mark:|:small_red_triangle:|:heavy_check_mark:|
 | 5주차 |:small_red_triangle:|:small_red_triangle:|:heavy_check_mark:|:heavy_check_mark:|:small_red_triangle:|
 | 6주차 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-| 7주차 ||||||
+| 7주차 |:x:||:small_red_triangle:|:small_red_triangle:|:x:|
 | 8주차 ||||||
+
+유림은 미국 일정 기간 동안 문제 풀이 일시 정지
 
 ## :speech_balloon: 미팅 참여 현황
 :x: / :o:
@@ -79,4 +86,5 @@
 | 5주차 |:o:|:o:|:o:|:o:|:o:|
 | 6주차 |:o:|:o:|:o:|:o:|:x:|
 | 7주차 |:o:|:o:|:o:|:o:|:x:|
-| 8주차 ||||||
+| 8주차 |:o:|:x:|:o:|:o:|:o:|
+| 9주차 ||||||
