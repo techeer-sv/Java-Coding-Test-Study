@@ -41,7 +41,7 @@
 
 ### 7주차
 1. [Programmers] [타켓 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)
-2. [Programmers] [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/42748)
+2. [Programmers] [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)
 3. [Programmers] [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)
 4. [Programmers] [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)
 5. [Programmers] [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)
