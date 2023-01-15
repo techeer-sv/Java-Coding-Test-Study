@@ -53,6 +53,15 @@
 2. [Programmers] [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)
 3. [Programmers] [단어 변화](https://school.programmers.co.kr/learn/courses/30/lessons/43163)
 
+### 9주차
+#### <그래프>
+1. [Programmers] [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191)
+2. [BAEKJOON] [안전영역](https://www.acmicpc.net/problem/2468)
+3. [BAEKJOON] [유기농배추](https://www.acmicpc.net/problem/1012)
+#### <스택/큐>
+4. [Programmers] [프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587)
+5. [Programmers] [주식회사](https://school.programmers.co.kr/learn/courses/30/lessons/42584)
+
 
 ## :pencil2: 문제풀이 참여 현황
 매주 할당 된 문제풀이에 대해..
