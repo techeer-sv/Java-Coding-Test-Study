@@ -71,8 +71,10 @@
 | 4주차 |:x:|:small_red_triangle:|:heavy_check_mark:|:small_red_triangle:|:heavy_check_mark:|
 | 5주차 |:small_red_triangle:|:small_red_triangle:|:heavy_check_mark:|:heavy_check_mark:|:small_red_triangle:|
 | 6주차 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-| 7주차 |:x:||:small_red_triangle:|:small_red_triangle:|:x:|
-| 8주차 ||||||
+| 7주차 |:x:|:x:|:small_red_triangle:|:small_red_triangle:|:x:|
+| 8주차 |:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|:x:|
+| 9주차 ||||||
+| 10주차||||||
 
 유림은 미국 일정 기간 동안 문제 풀이 일시 정지
 
