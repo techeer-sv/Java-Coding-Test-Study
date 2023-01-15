@@ -60,6 +60,8 @@
 다 풀었으면 : :heavy_check_mark:
 덜 풀었으면 : :small_red_triangle:
 안 풀었으면 : :x:
+추가문제 풀었으면 : :star:
+추가문제 + 개인문제 더 풀었으면 : :star:
 
 | --- | Wooseok | Youngjin | Hyunwoo | Zyoon | Yulim |
 | --- | --- | --- | --- | --- | --- |
