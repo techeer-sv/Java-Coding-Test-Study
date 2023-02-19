@@ -48,6 +48,20 @@
 
 4,5번은 하나 선택하여 풀기!
 
+### 8주차
+1. [Programmers] [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)
+2. [Programmers] [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)
+3. [Programmers] [단어 변화](https://school.programmers.co.kr/learn/courses/30/lessons/43163)
+
+### 9주차
+#### <그래프>
+1. [Programmers] [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191)
+2. [BAEKJOON] [안전영역](https://www.acmicpc.net/problem/2468)
+3. [BAEKJOON] [유기농배추](https://www.acmicpc.net/problem/1012)
+#### <스택/큐>
+4. [Programmers] [프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587)
+5. [Programmers] [주식회사](https://school.programmers.co.kr/learn/courses/30/lessons/42584)
+
 
 ## :pencil2: 문제풀이 참여 현황
 매주 할당 된 문제풀이에 대해..
@@ -55,6 +69,8 @@
 다 풀었으면 : :heavy_check_mark:
 덜 풀었으면 : :small_red_triangle:
 안 풀었으면 : :x:
+추가문제 풀었으면 : :star:
+추가문제 + 개인문제 더 풀었으면 : :star2:
 
 | --- | Wooseok | Youngjin | Hyunwoo | Zyoon | Yulim |
 | --- | --- | --- | --- | --- | --- |
@@ -64,8 +80,12 @@
 | 4주차 |:x:|:small_red_triangle:|:heavy_check_mark:|:small_red_triangle:|:heavy_check_mark:|
 | 5주차 |:small_red_triangle:|:small_red_triangle:|:heavy_check_mark:|:heavy_check_mark:|:small_red_triangle:|
 | 6주차 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-| 7주차 ||||||
-| 8주차 ||||||
+| 7주차 |:x:|:x:|:small_red_triangle:|:small_red_triangle:|:x:|
+| 8주차 |:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|:x:|
+| 9주차 ||||||
+| 10주차||||||
+
+유림은 미국 일정 기간 동안 문제 풀이 일시 정지
 
 ## :speech_balloon: 미팅 참여 현황
 :x: / :o:
@@ -79,4 +99,6 @@
 | 5주차 |:o:|:o:|:o:|:o:|:o:|
 | 6주차 |:o:|:o:|:o:|:o:|:x:|
 | 7주차 |:o:|:o:|:o:|:o:|:x:|
-| 8주차 ||||||
+| 8주차 |:o:|:x:|:o:|:o:|:o:|
+| 9주차 |:o:|:o:|:o:|:x:|:x:|
+| 10주차 ||||||
