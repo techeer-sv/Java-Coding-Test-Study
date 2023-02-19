@@ -13,7 +13,7 @@ class Solution {
             }
         }
 
-        String answer = String.valueOf(words);
+        String answer = String.valueOf(words); //object값을 string으로 반환
         return answer;
     }
 }
